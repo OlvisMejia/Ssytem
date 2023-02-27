@@ -1,0 +1,8 @@
+C:\Users\olvis\OneDrive\Escritorio\Web.net\HartwareSysten\HartwareSysten\obj\Debug\HartwareSysten.csproj.AssemblyReference.cache
+C:\Users\olvis\OneDrive\Escritorio\Web.net\HartwareSysten\HartwareSysten\obj\Debug\HartwareSysten.csproj.SuggestedBindingRedirects.cache
+C:\Users\olvis\OneDrive\Escritorio\Web.net\HartwareSysten\HartwareSysten\obj\Debug\HartwareSysten.csproj.CoreCompileInputs.cache
+C:\Users\olvis\OneDrive\Escritorio\Web.net\HartwareSysten\HartwareSysten\bin\Debug\HartwareSysten.exe.config
+C:\Users\olvis\OneDrive\Escritorio\Web.net\HartwareSysten\HartwareSysten\bin\Debug\HartwareSysten.exe
+C:\Users\olvis\OneDrive\Escritorio\Web.net\HartwareSysten\HartwareSysten\bin\Debug\HartwareSysten.pdb
+C:\Users\olvis\OneDrive\Escritorio\Web.net\HartwareSysten\HartwareSysten\obj\Debug\HartwareSysten.exe
+C:\Users\olvis\OneDrive\Escritorio\Web.net\HartwareSysten\HartwareSysten\obj\Debug\HartwareSysten.pdb
